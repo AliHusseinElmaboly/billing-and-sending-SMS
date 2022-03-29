@@ -20,7 +20,7 @@ Jinja2==2.8
 kombu==3.0.35
 linecache2==1.0.0
 MarkupSafe==0.23
-paramiko==1.17.0
+paramiko==2.10.1
 pycrypto==2.6.1
 pytz==2016.4
 redis==2.10.5
